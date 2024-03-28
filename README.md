@@ -1,0 +1,2 @@
+## Credit Score Classification 
+This project aims to analyze credit card transactions and classify customers into different credit score categories, such as "Poor," "Standard," or "Good." The classification helps financial institutions evaluate a customer's ability to pay back a loan or the likelihood to default on their debt, aiding in decision-making processes regarding credit approval or denial.
